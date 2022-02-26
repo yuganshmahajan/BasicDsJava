@@ -1,0 +1,13 @@
+# Ignoring project and classpath files
+**/.classpath
+**/.project
+**/.settings
+**/.idea
+*.iml
+
+# Excluding generated target folders
+**/target/
+
+# Excluding log files and folders
+**/${sys:log_path}/
+**/.DS_Store
